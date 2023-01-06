@@ -147,6 +147,41 @@
     border: 0;
     border-radius: 5px;
     position: relative;
-    top: 230px;
+    top: 236px;
     right:84%;
+    color: white;
+}
+.sucribe-btn{
+   background-color: orange;
+   width: 90px;
+   height: 45px;
+   position: relative;
+   bottom: 9px;
+   right:9px;
+   border: 0;
+   border-radius: 2px;
+   color: white;
+}
+input{
+    width: 200px;
+    height: 38px;
+    position: relative;
+    bottom:1px;
+   
+}
+.input-section{
+    max-width:50%;
+    margin: auto;
+    position: relative;
+    top: 700px;
+    left: 18%;
+}
+.udates{
+    text-align: center;
+    font-size: 64px;
+    position: relative;
+    top: 500px;
+}
+.footer-section{
+    
 }
